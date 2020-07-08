@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-size: 72px;
+  color: white;
+}
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  color: white;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color:white;
+}
